@@ -1,0 +1,2 @@
+# XiaoYuanKouSuan_AutoX.js
+基于AutoX的小猿口算自动化，使用无障碍抓取数字并且输出笔画，支持整数分数和小数比大小
